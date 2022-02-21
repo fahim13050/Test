@@ -2,3 +2,5 @@ C:\Users\Admin\Desktop\For loop\For loop\bin\Debug\For loop.exe
 C:\Users\Admin\Desktop\For loop\For loop\bin\Debug\For loop.pdb
 C:\Users\Admin\Desktop\For loop\For loop\obj\x86\Debug\For loop.exe
 C:\Users\Admin\Desktop\For loop\For loop\obj\x86\Debug\For loop.pdb
+C:\Users\Admin\Desktop\For loop\Test\For loop\obj\x86\Debug\For loop.exe
+C:\Users\Admin\Desktop\For loop\Test\For loop\obj\x86\Debug\For loop.pdb

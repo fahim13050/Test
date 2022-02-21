@@ -18,7 +18,6 @@ namespace For_loop
 
                }
             Console.ReadKey();
-            //fahim foysla
         }
     }
 }
